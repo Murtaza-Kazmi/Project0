@@ -1,4 +1,4 @@
-# Project 0
+# Projects by me
 
 This is kind of a portfolio website giving first a short introduction of myself followed by some projects that I have made yet.</br>
 -There are a total of 7 html pages, with index.html as the home page.</br>
