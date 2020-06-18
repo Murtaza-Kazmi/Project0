@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0CAAG;EACD,KAAK,EAAE,KAAK;;AAGZ,kBAAM;EAEN,aAAa,EAAE,cAAc;EAC7B,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,IAAI;AAEb,QAAG;EACD,eAAe,EAAC,SAAS",
+"sources": ["mainsass.scss"],
+"names": [],
+"file": "mainsass.css"
+}

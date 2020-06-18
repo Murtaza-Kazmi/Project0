@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,uBAOC;EANC,IAAK;IACH,WAAW,EAAE,sHAAsH;EAErI,EAAG;IACD,WAAW,EAAE,yHAAyH;AAIzI,gBAAkB;EAChB,KAAK,EAZJ,KAAK",
+"sources": ["sentsass.scss"],
+"names": [],
+"file": "sentsass.css"
+}

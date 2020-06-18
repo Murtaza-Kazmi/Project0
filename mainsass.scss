@@ -1,0 +1,17 @@
+%c {
+  color: white;
+}
+table {
+  th, td{
+    @extend %c;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  width: auto;
+}
+td {
+  text-decoration:underline;
+}
+}
+h3 , .row > div, td > a {
+  @extend %c;
+}

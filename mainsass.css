@@ -1,0 +1,11 @@
+table th, table td, h3, .row > div, td > a {
+  color: white; }
+
+table th, table td {
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  width: auto; }
+table td {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=mainsass.css.map */
