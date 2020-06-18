@@ -1,6 +1,6 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+Web Programming with Python and JavaScript</br>
 This is kind of a portfolio website giving first a short introduction of myself followed by some projects that I have made yet.
 -There are a total of 7 html pages, with index.html as the home page.
 -Each of the 6 remaining pages contain a project, which can be opened by clicking on the project name on the home page i.e. index.html.
