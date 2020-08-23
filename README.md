@@ -7,4 +7,4 @@ This is kind of a portfolio website giving first a short introduction of myself 
 -There are 4 .css files and 2 .scss files. The 2 .css files namely mainsass.css and sentsass.css are the converted versions of the original .scss files of the same name. The independent css files (meaning the files that were not converted from .scss format) are named main.css and sentiment.css.</br>
 -main.css and mainsass.css are the css files for index.html (the homepage), whereas sentiment.css and sentsass.css are the css files for all the  remaining 6 pages.</br>
 </br>
-https://murtaza-kazmi.github.io/Projects-by-MK/index.html
+https://murtaza-kazmi.github.io/portfolio/home.html
